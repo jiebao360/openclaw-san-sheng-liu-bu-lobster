@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log files
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Local configuration
+.local.env
+*.local
+
+# Build output
+dist/
+build/
+
+# Test coverage
+coverage/
+
+# Session files
+sessions/
+*.session
+
+# Cache
+.cache/
+__pycache__/

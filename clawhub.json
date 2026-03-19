@@ -1,0 +1,44 @@
+{
+  "name": "task-decomposition",
+  "version": "1.0.0",
+  "description": "三省六部虾群 - 任务分配技能，让新龙虾也能学会任务分解和分配",
+  "author": "主助手（总指挥）",
+  "license": "MIT",
+  "homepage": "https://github.com/jiebao360/task-decomposition",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jiebao360/task-decomposition.git"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "task-decomposition",
+    "多 agent",
+    "任务分配",
+    "三省六部虾群"
+  ],
+  "category": "productivity",
+  "tags": [
+    "任务管理",
+    "多 Agent 协作",
+    "飞书集成",
+    "自动化"
+  ],
+  "requirements": {
+    "openclaw": ">=1.0.0",
+    "feishu": ">=1.0.0"
+  },
+  "config": {
+    "lobsterTeam": "config/lobster-team.md",
+    "taskTemplates": "templates/task-templates.md",
+    "docs": "docs/"
+  },
+  "scripts": {
+    "install": "cp -r . ~/.openclaw/workspace-main/agents/main/skills/task-decomposition/",
+    "test": "echo \"Testing task-decomposition skill...\" && exit 0",
+    "publish": "clawhub publish"
+  },
+  "publishConfig": {
+    "registry": "https://clawhub.ai"
+  }
+}
