@@ -1,13 +1,13 @@
 {
-  "name": "task-decomposition",
+  "name": "openclaw-san-sheng-liu-bu-lobster",
   "version": "1.0.0",
-  "description": "三省六部虾群 - 任务分配技能，让新龙虾也能学会任务分解和分配",
+  "description": "OpenClaw 三省六部虾群 - 一人公司完整部署技能，让新龙虾也能学会任务分解和分配",
   "author": "主助手（总指挥）",
   "license": "MIT",
-  "homepage": "https://github.com/jiebao360/task-decomposition",
+  "homepage": "https://github.com/jiebao360/openclaw-san-sheng-liu-bu-lobster",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jiebao360/task-decomposition.git"
+    "url": "https://github.com/jiebao360/openclaw-san-sheng-liu-bu-lobster.git"
   },
   "keywords": [
     "openclaw",
@@ -15,14 +15,16 @@
     "task-decomposition",
     "多 agent",
     "任务分配",
-    "三省六部虾群"
+    "三省六部虾群",
+    "一人公司"
   ],
   "category": "productivity",
   "tags": [
     "任务管理",
     "多 Agent 协作",
     "飞书集成",
-    "自动化"
+    "自动化",
+    "一人公司"
   ],
   "requirements": {
     "openclaw": ">=1.0.0",
@@ -34,8 +36,8 @@
     "docs": "docs/"
   },
   "scripts": {
-    "install": "cp -r . ~/.openclaw/workspace-main/agents/main/skills/task-decomposition/",
-    "test": "echo \"Testing task-decomposition skill...\" && exit 0",
+    "install": "cp -r . ~/.openclaw/workspace-main/agents/main/skills/openclaw-san-sheng-liu-bu-lobster/",
+    "test": "echo \"Testing openclaw-san-sheng-liu-bu-lobster skill...\" && exit 0",
     "publish": "clawhub publish"
   },
   "publishConfig": {

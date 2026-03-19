@@ -1,8 +1,8 @@
-# 🦞 三省六部虾群 - 任务分配技能
+# 🦞 OpenClaw 三省六部虾群 - 一人公司完整部署技能
 
 > **让新龙虾也能学会任务分解和分配的技能**
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/jiebao360/task-decomposition)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/jiebao360/openclaw-san-sheng-liu-bu-lobster)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Clawhub](https://img.shields.io/badge/clawhub-available-orange.svg)](https://clawhub.ai)
 
@@ -18,6 +18,8 @@
 - ✅ 更新飞书多维表格
 - ✅ 汇总所有成果交付
 
+**适用场景**：一人公司、小团队、创业者、内容创作者、知识付费从业者
+
 ---
 
 ## 🚀 快速开始
@@ -26,11 +28,11 @@
 
 ```bash
 # 通过 Clawhub 安装
-clawhub install task-decomposition
+clawhub install openclaw-san-sheng-liu-bu-lobster
 
 # 或手动安装
-git clone https://github.com/jiebao360/task-decomposition.git
-cp -r task-decomposition ~/.openclaw/workspace-main/agents/main/skills/
+git clone https://github.com/jiebao360/openclaw-san-sheng-liu-bu-lobster.git
+cp -r openclaw-san-sheng-liu-bu-lobster ~/.openclaw/workspace-main/agents/main/skills/
 ```
 
 ### 2. 配置龙虾团队
