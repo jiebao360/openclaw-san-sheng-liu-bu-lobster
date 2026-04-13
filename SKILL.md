@@ -591,7 +591,7 @@ feishu_im_user_message(
 【TASK-20260414-90DAY-003】依赖任务已完成
 
 已完成：电商 Seedance 导演虾 - 60秒 Day 3 口播短视频镜头提示词
-飞书文档：https://www.feishu.cn/docx/V3WwdmG4soPvQxxeM8mcKaqInyh
+飞书文档：https://www.feishu.cn/docx/FWrwdBZcyoPPjmx9BQqc0X7an5f
 
 现在你可以开始执行任务，请继续。
 
