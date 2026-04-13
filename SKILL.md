@@ -686,12 +686,12 @@ https://bytedance.feishu.cn/drive/{file_token}
 
 **实际通知示例（已验证） - 晨报采集完成通知：**
 
-通知第二大脑笔记虾：
+通知第二大脑笔记虾（实际链接）：
 ```
 🔔 【TASK-20260416-90DAY-005】依赖任务已完成
 
 已完成：晨报内容采集虾 - 采集 openclaw-san-sheng-liu-bu-lobster 主题相关热点 + 检索本地知识库
-飞书文档：https://www.feishu.cn/docx/[DOC_ID]
+飞书文档：https://www.feishu.cn/docx/JmYdIdrXj9XzavWybgVdxtVnU
 
 现在你可以开始执行任务：
 
@@ -702,12 +702,12 @@ https://bytedance.feishu.cn/drive/{file_token}
 请按规则执行。
 ```
 
-通知内容创作虾：
+通知内容创作虾（实际链接）：
 ```
 🔔 【TASK-20260416-90DAY-005】依赖任务已完成
 
 已完成：晨报内容采集虾 - 采集 openclaw-san-sheng-liu-bu-lobster 主题相关热点 + 检索本地知识库
-飞书文档：https://www.feishu.cn/docx/[DOC_ID]
+飞书文档：https://www.feishu.cn/docx/JmYdIdrXj9XzavWybgVdxtVnU
 
 现在你可以开始执行任务：
 
