@@ -691,7 +691,7 @@ https://bytedance.feishu.cn/drive/{file_token}
 🔔 【TASK-20260416-90DAY-005】依赖任务已完成
 
 已完成：晨报内容采集虾 - 采集 openclaw-san-sheng-liu-bu-lobster 主题相关热点 + 检索本地知识库
-飞书文档：https://www.feishu.cn/docx/JmYdIdrXj9XzavWybgVdxtVnU
+飞书文档：https://www.feishu.cn/docx/JmYdIdrXj9XzavWyb-gVdx-tnU
 
 现在你可以开始执行任务：
 
@@ -707,7 +707,7 @@ https://bytedance.feishu.cn/drive/{file_token}
 🔔 【TASK-20260416-90DAY-005】依赖任务已完成
 
 已完成：晨报内容采集虾 - 采集 openclaw-san-sheng-liu-bu-lobster 主题相关热点 + 检索本地知识库
-飞书文档：https://www.feishu.cn/docx/JmYdIdrXj9XzavWybgVdxtVnU
+飞书文档：https://www.feishu.cn/docx/JmYdIdrXj9XzavWyb-gVdx-tnU
 
 现在你可以开始执行任务：
 
