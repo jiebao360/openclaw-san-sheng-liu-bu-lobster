@@ -683,6 +683,30 @@ https://bytedance.feishu.cn/drive/{file_token}
    - **回填链接到内容创作文档**
    - 回复指挥群
    - **必须通知**：视频剪辑虾 (ou_fd6344c3e796f4811cea59edc159368a)
+
+**Day 4 实际通知示例（已验证）**:
+
+通知图片素材虾：
+```
+🦞 @ou_7e15b696c9ebb1e54d1c1b8be8d23326
+
+【TASK-20260415-90DAY-004】依赖任务已完成
+
+已完成：内容创作虾 - 公众号文章《openclaw-san-sheng-liu-bu-lobster：一人公司全自动流转》 + 3条朋友圈文案
+飞书文档：https://www.feishu.cn/docx/PKFPdp9ZPoY2scxI2iwcnp12nwc
+
+现在你可以开始执行任务，请继续。
+
+按照规则：
+1. 生成 Day 4「openclaw-san-sheng-liu-bu-lobster」封面图（小红书风格）
+2. 制作 "90天计划第四天" 信息海报
+3. 所有图片上传飞书云盘，获取分享链接
+4. 创建飞书文档，把图片链接回填到内容创作虾的文章文档
+5. 完成后在指挥中心群回复完成状态，带上飞书文档链接
+6. 必须通知 视频剪辑虾 ou_fd6344c3e796f4811cea59edc159368a
+
+期待你的交付！
+```
     ↓
 4. 电商 Seedance 导演虾：
    - 根据内容写视频镜头提示词
