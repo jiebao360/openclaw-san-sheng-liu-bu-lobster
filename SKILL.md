@@ -584,6 +584,42 @@ feishu_im_user_message(
 - ✅ 接收方需要点击链接查看内容才能开始工作
 - ✅ 没有链接 = 接收方无法开始任务
 
+### 飞书云盘文件链接格式
+上传图片/视频到飞书云盘后，链接格式为：
+```
+https://bytedance.feishu.cn/drive/{file_token}
+```
+使用markdown格式：
+```markdown
+[图片名称](https://bytedance.feishu.cn/drive/{file_token})
+```
+
+### 图片素材虾完成后通知视频剪辑虾示例
+```
+🦞 @ou_fd6344c3e796f4811cea59edc159368a
+
+【TASK-20260414-90DAY-003】依赖任务已完成
+
+已完成：图片素材虾 - Day 3「60账号爆款选题」封面图 + "90天计划第三天" 数据海报
+飞书文档：https://www.feishu.cn/docx/[DOC_ID]
+
+图片已上传飞书云盘：
+1. 封面图：/path/to/day3_cover.png
+2. 数据海报：/path/to/day3_poster.png
+
+飞书云盘链接已获取，图片链接已回填到内容创作虾文章文档
+
+现在你可以开始执行任务，请继续。
+
+按照规则：
+1. 根据 Seedance 提示词 + 图片素材剪辑视频
+2. 合成最终成片上传飞书云盘
+3. 创建飞书文档，回填链接
+4. 完成后通知宰相
+
+期待你的交付！
+```
+
 ### Seedance 导演虾完成后通知视频剪辑虾示例
 ```
 🦞 @ou_fd6344c3e796f4811cea59edc159368a
