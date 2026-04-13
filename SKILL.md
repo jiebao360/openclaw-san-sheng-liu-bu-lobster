@@ -544,10 +544,10 @@ feishu_im_user_message(
 ```
 🦞 @ou_7e15b696c9ebb1e54d1c1b8be8d23326
 
-【TASK-20260413-90DAY-003】依赖任务已完成
+【TASK-20260414-90DAY-003】依赖任务已完成
 
 已完成：内容创作虾 - Day 3 文章选题 + 3条朋友圈文案
-飞书文档：[**必须填入实际飞书文档链接**]
+飞书文档：https://www.feishu.cn/docx/OJkydrpttoz1jDxaMekcE4Bcnyb
 
 现在你可以开始执行任务，请继续。
 
@@ -563,10 +563,10 @@ feishu_im_user_message(
 ```
 🦞 @ou_515e27eb869b47ae795c4b9199a30df7
 
-【TASK-20260413-90DAY-003】依赖任务已完成
+【TASK-20260414-90DAY-003】依赖任务已完成
 
 已完成：内容创作虾 - Day 3 文章选题 + 3条朋友圈文案
-飞书文档：[**必须填入实际飞书文档链接**]
+飞书文档：https://www.feishu.cn/docx/OJkydrpttoz1jDxaMekcE4Bcnyb
 
 现在你可以开始执行任务，请继续。
 
