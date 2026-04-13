@@ -714,6 +714,31 @@ https://bytedance.feishu.cn/drive/{file_token}
    - **回填链接到内容创作文档**
    - 回复指挥群
    - **必须通知**：视频剪辑虾 (ou_fd6344c3e796f4811cea59edc159368a)
+
+**Day 4 Seedance 导演完成通知视频剪辑虾实际示例**:
+```
+🔔 【TASK-20260415-90DAY-004】依赖任务已完成
+
+已完成：电商 Seedance 导演虾 - 60秒 Day 4 口播短视频镜头提示词 + 完整口播文案
+飞书文档：https://www.feishu.cn/docx/VxWzdteDmzVDxVRXvCMcWbhAunyc
+
+图片素材虾已经完成图片生成，图片链接已回填到内容创作文章文档
+
+现在你可以开始执行任务：
+
+1. 🎬 根据 Seedance 提示词 + 图片素材剪辑视频
+2. 根据镜头提示词录制口播音频
+3. 按照提示词添加对应画面和特效
+4. 合成最终成片（1080p/30fps/H.264）
+5. 📤 上传飞书云盘获取链接
+6. 📝 创建飞书文档，把视频链接回填到 Seedance 提示词文档
+
+【完成后必须】
+1. 在指挥中心群回复完成状态，带上飞书文档链接
+2. **必须通知** 宰相 `ou_bf50dd032cd352064ab2474e2aaacc0f`
+
+请开始执行。
+```
     ↓
 5. 视频剪辑虾：
    - 根据 Seedance 提示词 + 图片素材剪辑视频
@@ -735,6 +760,25 @@ https://bytedance.feishu.cn/drive/{file_token}
 内容创作虾完成 → 图片素材虾开始
 图片素材虾完成 + Seedance 导演完成 → 视频剪辑虾开始
 全部完成 → 宰相开始审核
+```
+
+### 🚨 强制自动通知规则
+> **每只龙虾完成自己的任务后，必须立即主动调用通知技能，自动通知所有下一步依赖的龙虾**
+> **不能等待主龙虾通知**，必须自己主动通知
+> **这是自动化流转的核心规则，必须严格遵守**
+> 
+> 如果不主动通知，流水线就会卡住，必须遵守
+
+```python
+# 正确做法：完成任务后立即通知所有依赖
+for dep in dependencies:
+    feishu_im_user_message(
+        action="send",
+        receive_id_type="open_id",
+        receive_id=dep['openid'],
+        msg_type="text",
+        content='{"text": "🦞 通知内容..."}'
+    )
 ```
 
 ### 回填规则
